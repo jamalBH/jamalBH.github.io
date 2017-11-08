@@ -11,20 +11,20 @@ baseurl: '/' #change it according to your repository name
 #style: styles-6
 
 #Profile information
-name: Alan Doe
+name: Jamal BOUHSSINE
 tagline: Full Stack Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: CROPPED.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
 commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
 montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
+email: jamalbouhssine@gmail.com
+phone: 06 72 81 85 87
+website: www.jamaltech.me #do not add http://
+linkedin: jamalbh
+github: jamalBH
 twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.
 
